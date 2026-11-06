@@ -1,5 +1,5 @@
 """Predicting Student Dropout in Higher Education Using Supervised ML Classification
-Developers: Winnie Masika, Naima Bashir, Mark Lemute
+Developers: Winnie Wasike, Naima Bashir, Mark Lemute
 Dataset: UCI "Predict Students' Dropout and Academic Success" (Realinho et al., 2021)
 
 Task: binary classification -> Dropout vs Non-Dropout (Enrolled + Graduate)
