@@ -1,6 +1,6 @@
 # Predicting Student Dropout in Higher Education Using Supervised Machine Learning Classification
 
-**Developers:** Winnie Masika, Naima Bashir, Mark Lemute
+**Developers:** Winnie Wasike, Naima Bashir, Mark Lemute
 **Course:** Data Mining
 
 ## Overview
